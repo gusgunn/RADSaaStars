@@ -14,6 +14,11 @@ public with sharing class WeekTwoHomework {
 		numberList.add(55);
         numberList.add(89);
 
+
+// ********************8Great job!! I think git hub might be messing with the indentation, but in case you haven't see this little feature:
+// ******************** In Dev Console: Select All (Ctrl/A) and then fix indentation ( Shift/Tab)or go to edit menu and select Fix Indentation
+// ********************This will line your code up nicely as blocks, and can help you find missing braces etc!
+//                      Great work!
 		//Checking our work:
 		system.debug('This number should be 12: ' +numberList.size());
 
