@@ -13,6 +13,9 @@ public with sharing class WeekTwoHomework {
 
             numberList.add(55);
         	numberList.add(89);
+        	// ********************Select All (Ctrl/A) and then fix indentation ( Shift/Tab). 
+        	// ********************This will line your code up nicely as blocks, and can help you find missing braces etc!
+        	
 
 		//Checking our work:
 		system.debug('This number should be 12: ' +numberList.size());
