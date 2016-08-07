@@ -10,7 +10,7 @@ public with sharing class WeekThreeHomework {
 		system.debug('Here are the favorite colors: '+ favoriteColors);
 	}
 
-
+/
 	//1.  Write a public method that calls the getFavoriteColors method to get a list of favorite colors, then add 
 	//another color to the list before printing it to the debug log. 
 	//(see the sample above for an example of calling that method-You can even start by copying and pasting that method here, renaming and modifying it)
